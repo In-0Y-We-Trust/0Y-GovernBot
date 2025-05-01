@@ -1,4 +1,4 @@
-# 0Y Governance Bot
+# 0Y GovernBot (Governor Bot)
 
 A Telegram bot that helps users track and receive updates on DAO governance proposals via the Tally API. Currently available at: https://t.me/Governor0Y_test_bot
 
